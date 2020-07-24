@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Vardrobe</string>
+  <string name="facebook_application_id">152342786205634</string>
+  <string name="fb_login_protocol_scheme">fb152342786205634</string>
+</resources>
